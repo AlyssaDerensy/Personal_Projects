@@ -43,7 +43,7 @@ Une fois les données extraites, elles ont été nettoyées et transformées à 
 
 ## Tableau de Bord Power BI
 Un **tableau de bord Power BI** interactif a été créé pour afficher les informations suivantes :
-- **Chiffre d'affaires (CA)** des mangas en France et dans le monde.
+- **Chiffre d'affaires (CA) en France** 
 - **Top 10 des mangas les plus vendus en France**.
 - **Nombre de mangas par genre** et **par éditeur**.
 - **Nombre d'exemplaires vendus par éditeur** et **par genre**.
