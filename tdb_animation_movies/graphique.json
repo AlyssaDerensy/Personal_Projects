@@ -1,0 +1,217 @@
+{
+  "name": "Charte Graphique Cinéma Animation",
+  "dataColors": [
+    "#003366",
+    "#0066cc",
+    "#3399ff",
+    "#006633",
+    "#00994d",
+    "#66cc66",
+    "#cc6600",
+    "#ff8c1a",
+    "#8e44ad",
+    "#9b59b6"
+  ],
+  "background": "#ffffff",
+  "foreground": "#333333",
+  "tableAccent": "#66cc66",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [
+          {
+            "family": "Calibri",
+            "script": "Latn"
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 12
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#f2f2f2" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#ffffff" } }
+          }
+        ],
+        "shadow": [
+          {
+            "show": true
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#f9f9f9" } }
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#f0f0f0" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#ffffff" } }
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#e0e0e0" } }
+          }
+        ],
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#ffffff" } },
+            "background": { "solid": { "color": "#333333" } }
+          }
+        ],
+        "categoryLabel": [
+          {
+            "fontColor": { "solid": { "color": "#333333" } }
+          }
+        ],
+        "values": [
+          {
+            "fontColor": { "solid": { "color": "#ffffff" } }
+          }
+        ]
+      }
+    },
+    "title": {
+      "*": {
+        "fontFamily": [
+          {
+            "family": "Roboto",
+            "script": "Latn"
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 18
+          }
+        ],
+        "fontWeight": [
+          {
+            "value": "bold"
+          }
+        ],
+        "fontColor": [
+          {
+            "solid": {
+              "color": "#003366"
+            }
+          }
+        ]
+      }
+    },
+    "subTitle": {
+      "*": {
+        "fontFamily": [
+          {
+            "family": "Calibri",
+            "script": "Latn"
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 14
+          }
+        ],
+        "fontWeight": [
+          {
+            "value": "normal"
+          }
+        ],
+        "fontColor": [
+          {
+            "solid": {
+              "color": "#006633"
+            }
+          }
+        ]
+      }
+    },
+    "label": {
+      "*": {
+        "fontFamily": [
+          {
+            "family": "Calibri",
+            "script": "Latn"
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 12
+          }
+        ],
+        "fontWeight": [
+          {
+            "value": "normal"
+          }
+        ],
+        "fontColor": [
+          {
+            "solid": {
+              "color": "#333333"
+            }
+          }
+        ]
+      }
+    },
+    "pieChart": {
+      "*": {
+        "legend": [
+          {
+            "fontColor": { "solid": { "color": "#333333" } }
+          }
+        ]
+      }
+    },
+    "barChart": {
+      "*": {
+        "axis": [
+          {
+            "labelColor": { "solid": { "color": "#333333" } },
+            "axisScale": { "solid": { "color": "#d0d0d0" } }
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true
+          }
+        ],
+        "values": [
+          {
+            "fontColorPrimary": { "solid": { "color": "#333333" } }
+          }
+        ],
+        "header": [
+          {
+            "fontColor": { "solid": { "color": "#ffffff" } },
+            "background": { "solid": { "color": "#003366" } }
+          }
+        ]
+      }
+    }
+  }
+}
