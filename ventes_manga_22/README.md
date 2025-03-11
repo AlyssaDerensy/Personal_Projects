@@ -54,7 +54,7 @@ Le fichier **`dashboard_ventes_mangas_2022.pbix`** peut être ouvert avec **Powe
 ## Installation et Prérequis
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/Manga-Sales-Analysis.git
+   git clone https://github.com/AlyssaDerensy/Personal_Projects/tree/main/ventes_manga_22
    ```
 
 2. Installez les dépendances Python :
