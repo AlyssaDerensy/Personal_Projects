@@ -90,17 +90,11 @@ Le fichier CSV généré (via l'étape de transformation) doit être disponible 
 ### 1. Extraction et Transformation
 1. Clonez ce dépôt :  
    ```bash
-   git clone <url_du_dépôt>
+   git clone https://github.com/AlyssaDerensy/Personal_Projects/tree/main/tdb_animation_movies
    cd <nom_du_dossier>
    ```
-2. Exécutez l'algorithme Python pour extraire les données :  
-   ```bash
-   python extract_data.py
-   ```
-3. Lancez le script de transformation des données :  
-   ```bash
-   python transform_data.py
-   ```
+2. Exécutez l'algorithme Python pour extraire les données
+
 
 ### 2. Importation dans Power BI
 1. Modifiez la source du fichier pour qu'elle corresponde à votre fichier CSV généré.
