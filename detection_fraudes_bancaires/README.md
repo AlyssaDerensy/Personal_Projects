@@ -36,8 +36,8 @@ Le jeu de données utilisé provient d'un ensemble de transactions réalisées p
 Cloner le dépôt Git :
 
 ```bash
-git clone https://github.com/AlyssaDerensy/Personal_Projects/detection_fraude_bancaire
-cd detection_fraude_bancaire
+git clone https://github.com/AlyssaDerensy/Personal_Projects/detection_fraudes_bancaires
+cd detection_fraudes_bancaires
 
 python -m venv env
 env\\Scripts\\activate
