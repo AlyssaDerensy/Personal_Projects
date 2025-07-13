@@ -40,7 +40,6 @@ git clone https://github.com/AlyssaDerensy/Personal_Projects/detection_fraude_ba
 cd detection_fraude_bancaire
 
 python -m venv env
-source env/bin/activate  # sur Linux/macOS
-env\\Scripts\\activate   # sur Windows
+env\\Scripts\\activate
 
 pip install -r requirements.txt
