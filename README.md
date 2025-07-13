@@ -19,6 +19,13 @@ Bienvenue sur mon dépôt **Personal Projects**, où vous trouverez une collecti
   - Analyse des tendances des ventes par série, éditeur, et genre.  
   - Création de visualisations.
 
+- **[`detection_fraude_bancaire`](./detection_fraude_bancaire)**  
+  Ce projet détecte les fraudes sur des transactions bancaires à l’aide d’algorithmes de machine learning.  
+  - Exploration et nettoyage d’un dataset fortement déséquilibré.  
+  - Normalisation des données et suréchantillonnage via SMOTE.  
+  - Entraînement de modèles : régression logistique et forêt aléatoire.  
+  - Évaluation des performances avec matrice de confusion, AUC, et rapport de classification.  
+
 ---
 
 ## Objectifs du Dépôt
@@ -49,6 +56,7 @@ Les projets dans ce dépôt utilisent des outils et technologies variés, notamm
 - **Power BI** : Visualisation et tableaux de bord interactifs.  
 - **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** : Bibliothèques Python pour l'analyse et la visualisation des données.  
 - **API REST** : Intégration pour la collecte de données externes.  
+- **sklearn** : Machine learning
 
 ---
 
